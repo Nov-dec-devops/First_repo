@@ -1,2 +1,3 @@
 hello,goodmorning
 welcome to devops
+we have devops training going
